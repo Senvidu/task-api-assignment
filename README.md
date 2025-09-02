@@ -18,7 +18,7 @@ A simple REST API for managing tasks. Built for the "Assignment for New Joiners 
 ## Getting Started
 
 ### 1) Prerequisites
-- Node.js 18+
+- Node.js v22.12.0.
 - MongoDB running locally or provisioned (e.g., Atlas)
 
 ### 2) Install
